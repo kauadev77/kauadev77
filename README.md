@@ -43,7 +43,3 @@ Estudante de **Ciência da Computação** na **Universidade Presbiteriana Macken
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauadev77&show_icons=true&theme=dark&hide_border=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauadev77&layout=compact&theme=dark&hide_border=true)
-
-## Licença
-
-Meus projetos estão sob a [Licença MIT](https://opensource.org/licenses/MIT).
