@@ -36,8 +36,8 @@ Estudante de **Ciência da Computação** na **Universidade Presbiteriana Macken
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 - **Instagram**: [kauaog77](https://www.instagram.com/kauaog77)  
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-- **E-mail**: [kauaje18@gmail.com](mailto:kauaje18@gmail.com)  
-  ![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
+- ![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white): [kauaje18@gmail.com](mailto:kauaje18@gmail.com)  
+  
 
 ## 📊 Estatísticas do GitHub
 
