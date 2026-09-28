@@ -40,17 +40,17 @@ My work includes building and integrating APIs, working with PostgreSQL and Supa
 
 ## Featured portfolio projects
 
-### [AI Agent Demo](https://github.com/kauadev77/kauadev77/tree/main/projects/ai-agent-demo)
+### [AI Agent Demo](https://github.com/kauadev77/ai-agent-demo)
 FastAPI-based agent architecture with intent classification, tool routing, conversation memory, tests and Docker.
 
 `Python` `FastAPI` `AI Agents` `Docker` `pytest`
 
-### [Python Data Pipeline](https://github.com/kauadev77/kauadev77/tree/main/projects/data-pipeline-python)
+### [Python Data Pipeline](https://github.com/kauadev77/data-pipeline-python)
 ETL and analytics project using fictional e-commerce data, Pandas, NumPy, SQL and PostgreSQL-ready schemas.
 
 `Python` `Pandas` `NumPy` `SQL` `PostgreSQL` `Metabase`
 
-### [FastAPI Production Template](https://github.com/kauadev77/kauadev77/tree/main/projects/fastapi-production-template)
+### [FastAPI Production Template](https://github.com/kauadev77/fastapi-production-template)
 Production-minded API template with versioned routes, environment configuration, health checks, Docker, tests and CI.
 
 `FastAPI` `Docker` `PostgreSQL` `GitHub Actions` `pytest`
