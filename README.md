@@ -38,7 +38,24 @@ My work includes building and integrating APIs, working with PostgreSQL and Supa
 
 > Professional projects are described only at a high level to respect company and client confidentiality.
 
-## Public projects
+## Featured portfolio projects
+
+### [AI Agent Demo](https://github.com/kauadev77/kauadev77/tree/main/projects/ai-agent-demo)
+FastAPI-based agent architecture with intent classification, tool routing, conversation memory, tests and Docker.
+
+`Python` `FastAPI` `AI Agents` `Docker` `pytest`
+
+### [Python Data Pipeline](https://github.com/kauadev77/kauadev77/tree/main/projects/data-pipeline-python)
+ETL and analytics project using fictional e-commerce data, Pandas, NumPy, SQL and PostgreSQL-ready schemas.
+
+`Python` `Pandas` `NumPy` `SQL` `PostgreSQL` `Metabase`
+
+### [FastAPI Production Template](https://github.com/kauadev77/kauadev77/tree/main/projects/fastapi-production-template)
+Production-minded API template with versioned routes, environment configuration, health checks, Docker, tests and CI.
+
+`FastAPI` `Docker` `PostgreSQL` `GitHub Actions` `pytest`
+
+## Academic projects
 
 ### [Pokédex SwiftUI](https://github.com/kauadev77/Pokedex-SwiftUI)
 iOS application built with SwiftUI during the Foundation iOS program.
@@ -52,15 +69,9 @@ CLI task manager built in Swift to practice programming fundamentals and input v
 ### [Object-Oriented Programming with Swift](https://github.com/kauadev77/Projeto-Swift)
 Swift project focused on abstraction, encapsulation, inheritance and polymorphism.
 
-## Public portfolio roadmap
+## Portfolio note
 
-I'm expanding my public portfolio with projects that better represent my current professional stack:
-
-- AI agent + FastAPI + PostgreSQL
-- Python data pipeline with Pandas, SQL and Metabase
-- Production-ready FastAPI template with Docker and automated tests
-
-These projects are built from scratch with fictional data and without reusing confidential work code.
+All public portfolio demos are built from scratch with fictional data and do not reuse confidential company code, customer information or private integrations.
 
 ## Education
 
